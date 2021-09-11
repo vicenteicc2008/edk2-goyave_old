@@ -11,5 +11,5 @@ GPU     | Mali-400MP2
 Memory  | 1 GB
 Shipped Android Version | Android 4.4.4 with TouchWiz Essence
 Storage | 8 GB
-MicroSD | Up to 64 GB
+MicroSD | Up to 32 GB
 Display | 1080 x 600 pixels, 7.0"
