@@ -4,7 +4,7 @@
 #
 ################################################################################
 [Defines]
-  PLATFORM_NAME                  = T113NU
+  PLATFORM_NAME                  = T113NUPkg
   PLATFORM_GUID                  = 566ba710-0bee-48e0-b56e-dcf4b0a38e04
   PLATFORM_VERSION               = 0.1
   DSC_SPECIFICATION              = 0x00010005
@@ -12,7 +12,7 @@
   SUPPORTED_ARCHITECTURES        = ARM
   BUILD_TARGETS                  = DEBUG|RELEASE
   SKUID_IDENTIFIER               = DEFAULT
-  FLASH_DEFINITION               = T113NUPkg/T113NU.fdf
+  FLASH_DEFINITION               = T113NUPkg/T113NUPkg.fdf
 
 
 [PcdsFixedAtBuild.common]
